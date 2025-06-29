@@ -2,4 +2,4 @@
 title: "about"
 ---
 ----------
-wangdad，这是我的个人学习笔记
+wangdada，这是我的个人学习笔记
